@@ -1,9 +1,9 @@
 # kotlin_apk_github_user
 
 
-menerapkan view binding
-penulisan kode telah direfactoring
-menerapkan styles
+- menerapkan view binding
+- penulisan kode telah direfactoring
+- menerapkan styles
 
 ![WhatsApp Image 2022-09-22 at 10 58 41](https://user-images.githubusercontent.com/58543758/191656166-2f2c17d8-15f8-4425-a5f6-df2bc43a4576.jpeg)
 
